@@ -21,5 +21,8 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-eduard&show_icons=false&layout=compact"></a>
 </p>
 
-<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Views&amp;color=0e75b6&amp;style=flat"></a></p>
+<p align="center">
+<a href="https://wakatime.com/@b70c4b6c-25e5-4446-9696-d5d479939752"><img src="https://wakatime.com/badge/user/b70c4b6c-25e5-4446-9696-d5d479939752.svg" alt="Total time coded since Dec 3 2024" /></a>
+<br/>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=eduardoc126&amp;label=Views&amp;color=0e75b6&amp;style=flat"></a></p>
 <br>
