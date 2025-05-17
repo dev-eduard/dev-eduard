@@ -8,17 +8,17 @@
 
 <h3 align="center">Aqui encontrará</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" href="#"/>
-    <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" href="#"/>
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" href="#"/>
+    <a href="#"><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
     <br/>
-    <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" href="#"/>
-    <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" href="#"/>
-    <img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" href="#"/>
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" href="#"/>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
     <br/>
-    <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" href="#"/>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" href="#"/>
+    <a href="#"><img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 </p>
 
 <br/>
@@ -41,15 +41,15 @@
 
 <h3 align="center">Estatísticas</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-eduard&layout=compact&theme=tokyonight" alt="Principais Linguagens" />
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-eduard&layout=compact&theme=tokyonight" alt="Principais Linguagens" /></a>
 </p>
 
 <p align="center">
   <a href="https://wakatime.com/@b70c4b6c-25e5-4446-9696-d5d479939752" target="_blank">
-    <img src="https://wakatime.com/badge/user/b70c4b6c-25e5-4446-9696-d5d479939752.svg" alt="Wakatime Badge" />
+    <a href="#"><img src="https://wakatime.com/badge/user/b70c4b6c-25e5-4446-9696-d5d479939752.svg" alt="Wakatime Badge" /></a>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=eduardoc126&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=eduardoc126&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
 
 <br/>
