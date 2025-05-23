@@ -16,9 +16,6 @@
     <a href="#"><img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
     <a href="#"><img src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <br/>
-    <a href="#"><img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 </p>
 
 <br/>
@@ -55,5 +52,5 @@
 <br/>
 
 <h3 align="center">Em constante evolução</h3>
-<p align="center">Atualmente estudando <strong>Dart com Flutter</strong> para desenvolvimento <em>multiplataforma</em> (mobile e desktop).<br/>
+<p align="center">Atualmente estudando <strong>React Native</strong> para desenvolvimento <em>multiplataforma</em> (mobile e desktop).<br/>
 Também cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Engenharia de Software</strong> na faculdade.</p>
