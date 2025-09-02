@@ -50,7 +50,3 @@
 </p>
 
 <br/>
-
-<h3 align="center">Em constante evolução</h3>
-<p align="center">Atualmente estudando <strong>React Native</strong> para desenvolvimento <em>multiplataforma</em> (mobile e desktop).<br/>
-Também cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Engenharia de Software</strong> na faculdade.</p>
