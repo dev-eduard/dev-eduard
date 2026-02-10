@@ -1,8 +1,5 @@
 <h1 align="center">Bem vindo(a) ao meu perfil!</h1>
-<p align="center">Olá! Me chamo <strong>Marcos Eduardo</strong>, sou brasileiro, tenho 19 anos e sou <strong>Estudante / Desenvolvedor </strong> Full-Stack.</p>
-<p align="center">
-  Confira meu portfólio em: <a href="https://marcoseduardo.dev.br" target="_blank"><strong>marcoseduardo.dev.br</strong></a>
-</p>
+<p align="center">Olá! Me chamo <strong>Marcos Eduardo</strong>, sou brasileiro, tenho 19 anos e <strong>estudo</strong> Engenharia de Software</p>
 
 <br/>
 
