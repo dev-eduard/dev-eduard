@@ -33,11 +33,6 @@
 
 <br/>
 
-<h3 align="center">Estatísticas</h3>
-<p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-eduard&layout=compact&theme=tokyonight" alt="Principais Linguagens" /></a>
-</p>
-
 <p align="center">
   <a href="https://wakatime.com/@b70c4b6c-25e5-4446-9696-d5d479939752" target="_blank">
     <a href="#"><img src="https://wakatime.com/badge/user/b70c4b6c-25e5-4446-9696-d5d479939752.svg" alt="Wakatime Badge" /></a>
