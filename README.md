@@ -32,13 +32,3 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://wakatime.com/@b70c4b6c-25e5-4446-9696-d5d479939752" target="_blank">
-    <a href="#"><img src="https://wakatime.com/badge/user/b70c4b6c-25e5-4446-9696-d5d479939752.svg" alt="Wakatime Badge" /></a>
-  </a>
-  <br/>
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=eduardoc126&label=Profile+views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-</p>
-
-<br/>
